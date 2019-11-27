@@ -1,0 +1,5 @@
+To run the code in your own device you need the following packages
+##Requirements
+Package | Version
+------- | -------
+Pyton | 3.7.4
